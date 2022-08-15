@@ -2,7 +2,7 @@
      BUT I want to change my specialty, since I always chose a computer more. 
      Although now I work for a PC, but the specificity is not at all the same, I understand that this is not mine
 - 👀 I’m interested in coding and in the IT field in general, in which I do not understand anything, but I really want to learn something
-- 🌱I am currently studying Python programming and have almost completed the first course, I plan to continue my studies as well
+- 🌱At the moment I am studying the Python programming language and reading books on it, I also plan to continue my studies
 - 💞️ I am looking for opportunities to collaborate, perhaps even to train and guide me on the right path as a young Jedi.
 - 📫 To reach me Telegram: @Yakira666
 
